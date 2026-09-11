@@ -53,7 +53,7 @@ Some of the major insights identified during the analysis include:
 
 The Excel workbook contains the raw data along with separate analysis sheets and the dashboard.
 
-- `Vrinda Store Report 2022` – Raw dataset
+- `Vrinda Store Report 2022` – Main dashboard
 - `Sales VS Orders` – Monthly sales and order analysis
 - `Men VS Women` – Gender-wise sales analysis
 - `Order Status` – Order status analysis
@@ -61,7 +61,7 @@ The Excel workbook contains the raw data along with separate analysis sheets and
 - `Age and Gender` – Age-group and gender analysis
 - `Channels` – Sales channel analysis
 - `Q-A` – Business questions and answers
-- `VAStra Store` – Main dashboard
+- `VAStra Store` –Raw dataset
 
 ## Business Questions
 
